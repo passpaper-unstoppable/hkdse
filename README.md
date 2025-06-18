@@ -2,9 +2,16 @@
 
 This site is a temporary clone of the original dse.life .
 
+[dse.life github site] (https://passpaper-unstoppable.github.io/dse.life/)
+
+ipfs://bafybeido6nexiphgnzeultp4werru5ipdnqhh4mwv44hzv3idp4nz6aima/dse.life/
+
 a better and more complete PassPaper collection
-[ipfs://passpaper.unstoppable/dse.life/] (ipfs://passpaper.unstoppable/dse.life/)
 will be available soon. ( estimated to be launch during summer holiday. )
+
+passpaper.unstoppable
+
+*p.s. due to storage space limit, the IPFS site is only index to pastpapers, we do not host any pastpaper file.
 
 please view it with [Opera] (https://www.opera.com/opera) browsers
 
